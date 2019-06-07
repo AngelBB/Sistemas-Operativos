@@ -1,2 +1,2 @@
 # Sistemas-Operativos
-Teoria y prácticas de Sistemas Operativos - UGR
+Modulos de prácticas de Sistemas Operativos - UGR
